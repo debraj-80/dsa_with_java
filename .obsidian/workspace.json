@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "array/hi.md",
+                "file": "Java/01-Introduction and Editions of Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hi"
+              "title": "01-Introduction and Editions of Java"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "array/hi.md",
+                "file": "Java/01-Introduction and Editions of Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hi"
+              "title": "Backlinks for 01-Introduction and Editions of Java"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "array/hi.md",
+                "file": "Java/01-Introduction and Editions of Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hi"
+              "title": "Outgoing links from 01-Introduction and Editions of Java"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "array/hi.md",
+                "file": "Java/01-Introduction and Editions of Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hi"
+              "title": "Outline of 01-Introduction and Editions of Java"
             }
           },
           {
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8de04fae31ee116",
+  "active": "8f1d700997f8ccdb",
   "lastOpenFiles": [
-    "Java/01-Introduction and Editions of Java.md",
     "array/hi.md",
+    "Java/01-Introduction and Editions of Java.md",
     "Untitled.md",
     "array",
     "Java/02-Features of Java.md",
