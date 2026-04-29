@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "array/Untitled.md",
+                "file": "array/hi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "hi"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "array/Untitled.md",
+                "file": "array/hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for hi"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "array/Untitled.md",
+                "file": "array/hi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from hi"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "array/Untitled.md",
+                "file": "array/hi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of hi"
             }
           },
           {
@@ -194,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f1d700997f8ccdb",
+  "active": "b8de04fae31ee116",
   "lastOpenFiles": [
-    "01-Java/01-Introduction and Editions of Java.md",
-    "array/Untitled.md",
+    "Java/01-Introduction and Editions of Java.md",
+    "array/hi.md",
     "Untitled.md",
     "array",
-    "01-Java/02-Features of Java.md",
+    "Java/02-Features of Java.md",
     "README.md",
-    "01-Java",
+    "Java",
     "Welcome.md",
     "Features of Java.md",
     "Introduction and Editions of Java.md",
