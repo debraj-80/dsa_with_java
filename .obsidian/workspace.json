@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/01-Introduction and Editions of Java.md",
+                "file": "01-Java/01-Introduction and Editions of Java.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/01-Introduction and Editions of Java.md",
+                "file": "01-Java/01-Introduction and Editions of Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/01-Introduction and Editions of Java.md",
+                "file": "01-Java/01-Introduction and Editions of Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/01-Introduction and Editions of Java.md",
+                "file": "01-Java/01-Introduction and Editions of Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f1d700997f8ccdb",
+  "active": "b8de04fae31ee116",
   "lastOpenFiles": [
-    "Java/02-Features of Java.md",
-    "Java/01-Introduction and Editions of Java.md",
+    "01-Java/02-Features of Java.md",
+    "01-Java/01-Introduction and Editions of Java.md",
     "README.md",
-    "Java",
+    "01-Java",
     "Welcome.md",
     "Features of Java.md",
     "Introduction and Editions of Java.md",
